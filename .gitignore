@@ -1,0 +1,11 @@
+OneDrive/
+Application Data/
+*.regtran
+*.reg
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.local
